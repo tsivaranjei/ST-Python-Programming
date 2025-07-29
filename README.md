@@ -5,7 +5,7 @@ Python is a widely used high-level, interpreted, and interactive programming lan
 
 The published GitHub repository (https://github.com/tsivaranjei/ST-Python-Programming) contains a collection of Python Programming under the MIT License, Copyright (c) 2025 Sivaranjei Thambipillai.
 
-# Why Learn Python
+## Why Learn Python
 Python is one of the most liked programming languages by data scientists, software engineers, and developers because of its versatility, flexibility, and object-oriented features. 
 <br>Many of the web and mobile applications are because of Python’s libraries, various frameworks, and huge collections of modules.
 
