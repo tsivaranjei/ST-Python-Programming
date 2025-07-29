@@ -1,7 +1,5 @@
 # ST-Python-Programming
-Python is a widely used high-level, interpreted, and interactive programming language.
-<br>It is used for web development (server-side), system scripting, software development, data handling, and performing complex mathematical operations.
-<br>It was initially designed by Guido van Rossum in 1991 and developed by the Python Software Foundation.
+Python is a widely used high-level, interpreted, and interactive programming language. It is used for web development (server-side), system scripting, software development, data handling, and performing complex mathematical operations. It was initially designed by Guido van Rossum in 1991 and developed by the Python Software Foundation. This will provide academia and industry with a clear roadmap for learning a programming language.
 
 The published GitHub repository (https://github.com/tsivaranjei/ST-Python-Programming) contains a collection of Python Programming under the MIT License, Copyright (c) 2025 Sivaranjei Thambipillai.
 
