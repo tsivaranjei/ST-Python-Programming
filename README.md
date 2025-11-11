@@ -1,7 +1,9 @@
-# ST-Python-Programming
+# ST Python Programming
 Python is a widely used high-level, interpreted, and interactive programming language. It is used for web development (server-side), system scripting, software development, data handling, and performing complex mathematical operations. It was initially designed by Guido van Rossum in 1991 and developed by the Python Software Foundation. This will provide academia and industry with a clear roadmap for learning a programming language.
 
-The published GitHub repository (https://github.com/tsivaranjei/ST-Python-Programming) contains a collection of Python Programming under the MIT License, Copyright (c) 2025 Sivaranjei Thambipillai.
+The published GitHub repository (https://github.com/tsivaranjei/ST-Python-Programming) contains a collection of Python Programming under the MIT License.<br>
+~Last Updated: 2025 November 10
+
 
 ## Why Learn Python
 Python is one of the most liked programming languages by data scientists, software engineers, and developers because of its versatility, flexibility, and object-oriented features. 
@@ -13,7 +15,7 @@ Sivaranjei Thambipillai (MSc, BSc), University of Colombo, Sri Lanka.
 ## License
 MIT License, Copyright (c) 2025 Sivaranjei Thambipillai.
 
-You can use this tutorial free of charge. See LICENSE.
+You can use this tutorial free of charge. See <a href="https://github.com/tsivaranjei/ST-Python-Programming/blob/main/LICENSE" target="_blank">LICENSE</a>.
 
 ## Feedback and Support
 We value your input! If you find any issues or have suggestions, please open an issue in this repository. Your feedback helps us improve!
