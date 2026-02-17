@@ -7,7 +7,11 @@ The published GitHub repository (https://github.com/tsivaranjei/ST-Python-Progra
 
 ## Why Learn Python
 Python is one of the most liked programming languages by data scientists, software engineers, and developers because of its versatility, flexibility, and object-oriented features. 
-<br>Many of the web and mobile applications are because of Python’s libraries, various frameworks, and huge collections of modules.
+<br> Most web and mobile applications are made possible with Python’s libraries, various frameworks, and huge collections of modules.
+
+[![ST Python Programming](https://github.com/tsivaranjei/ST-Python-Programming/blob/main/ST-Library%20Python.png)](https://www.youtube.com/playlist?list=PLWuc_Nj8ISXcm7OrjrjDDIgi_Mp3sNbta)
+
+Subscribe https://www.youtube.com/@ST-Library
 
 # Author and Contributor
 Sivaranjei Thambipillai (MSc, BSc), University of Colombo, Sri Lanka.
